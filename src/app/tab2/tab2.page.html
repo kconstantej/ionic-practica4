@@ -12,7 +12,8 @@
     Mostrar funcion de Action-sheet
 </ion-button>
   <ion-list>
-    <ion-item *ngFor="let producto of productos" (click)="presentAlert(producto)">{{producto.nombre}}
+
+    <ion-item class="ion-text-center" *ngFor="let producto of productos" (click)="presentAlert(producto)"> <ion-icon name="phone-portrait-outline" color="primary"></ion-icon>{{producto.nombre}}
       
     </ion-item>
     

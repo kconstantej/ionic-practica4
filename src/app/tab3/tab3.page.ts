@@ -15,22 +15,22 @@ export class Tab3Page {
   matriz:su={
     nombre:'Matriz',
     direccion: 'Quitumbe ñan y Condor ñan oe21-254',
-    telefono: '2658947',
-    src: '/assets/img/institucional.jpg'
+    telefono: '265894734',
+    src: '/assets/img/matriz.jpg'
   }
   sucursal=[
     this.matriz,
     {
-      nombre:'Quitumbe',
-      direccion: 'Quitumbe ñan y Condor ñan oe21-254',
-      telefono: '2658947',
-      src: '/assets/img/institucional.jpg'
+      nombre:'Napo',
+      direccion: 'Napo y alpahuasi s11-523',
+      telefono: '2664090',
+      src: '/assets/img/napo.jpg'
     },
     {
-      nombre:'Napo',
-      direccion: 'Quitumbe ñan y Condor ñan oe21-254',
-      telefono: '2658947',
-      src: '/assets/img/institucional.jpg'
+      nombre:'Rio Coca',
+      direccion: 'Rio coa y 6 de diciembre n96-44',
+      telefono: '26619872',
+      src: '/assets/img/rio.jpg'
     },
   ]
 
